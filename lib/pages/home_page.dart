@@ -47,7 +47,7 @@ class _HomePageState extends State<HomePage> {
                     height: 10,
                   ),
                   Text(
-                    'Welcome Back',
+                    'Welcome',
                     style: TextStyle(
                       color: Colors.white,
                       fontSize: 20,
